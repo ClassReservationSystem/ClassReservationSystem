@@ -12,8 +12,8 @@
 ---
 ### Installation
 #### Step 1: Clone the repository .
-#### Step 2: Move the 'Front-end' file to ..\xampp\htdocs .
-#### Step 3: Open Xampp, then phpMyAdmin. Click 'import' and select ..\Back-End (SQL-tables)\mebis.sql .
+#### Step 2: Move all the files to ..\xampp\htdocs .
+#### Step 3: Open Xampp, then phpMyAdmin. Click 'import' and select ..\Back-End\dbmebis.sql .
 ---
 ### Example Logins
 #### Student
